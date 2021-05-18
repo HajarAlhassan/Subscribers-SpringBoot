@@ -1,0 +1,8 @@
+com/tts/SubscriberList/repository/SubscriberRepository.java
+ com.tts.SubscriberList.repository.SubscriberRepository
+com/tts/SubscriberList/SubscriberListApplication.java
+ com.tts.SubscriberList.SubscriberListApplication
+com/tts/SubscriberList/model/Subscriber.java
+ com.tts.SubscriberList.model.Subscriber
+com/tts/SubscriberList/controler/SubscriberController.java
+ com.tts.SubscriberList.controler.SubscriberController
